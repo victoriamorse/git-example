@@ -1,3 +1,3 @@
 # git-example
 class work for woz-u
-This is a git example file
+This is some new text!
